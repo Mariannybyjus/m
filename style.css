@@ -1,0 +1,33 @@
+h1{
+    color:#479969;
+}
+
+h3{ 
+    color:#1e7491;
+}
+
+h2{
+    color:rgb(155, 155, 56);
+}
+
+h4{
+    color:#973c4e;
+}
+
+.image{
+    border-radius: 50%;
+    width: 150px;
+    height:150px;
+}
+
+.pib{
+    border-radius: 50%;
+    width: 140px;
+    height: 140px;
+    height: 140px;
+    height: 140px;
+}
+
+.fundo{
+    background-color: white;
+}
